@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  padding:0%;
+  margin:0%;
+}
+
+.search-button{
+  border-top-right-radius: 25px;
+ border-bottom-right-radius: 25px;
+ border-left:none;
+}
+.input-ele{
+ border-top-left-radius: 25px;
+ border-bottom-left-radius: 25px;
+ border-right: none;
+ outline:none;
+}
+
+
